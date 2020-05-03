@@ -1,0 +1,37 @@
+
+.header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .logo {
+    font-size: 2.25rem;
+  }
+  .nav-scroller {
+    height: 2.75rem;
+    overflow-y: hidden;
+    z-index: 2;
+  }
+  .img {
+    height: 100%;
+    border-radius: 0 3px 3px 0;
+  }
+  .blog-title {
+    margin-bottom: 0;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+  .blog-description {
+    font-size: 1.1rem;
+    color: #999;
+  }
+  .last {
+    padding: 40px 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 1px solid #e5e5e5;
+  }
+  .last p:last-child {
+    margin-bottom: 0;
+  }
+  
